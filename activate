@@ -1,0 +1,16 @@
+[33m186a299e[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m Updated README.md with project details
+[33mfd290d39[m Fix duplicated content in elen_eda.ipynb
+[33m27343b5a[m Add initial exploratory data analysis notebook
+[33m6dcef293[m Update requirements.txt with necessary packages
+[33mbe5d3444[m Update .gitignore with additional patterns
+[33m1f806bff[m Update .gitignore to include additional patterns
+[33m9690b0de[m Resolved merge conflicts in .gitignore and README.md
+[33m1b660aa7[m Your commit message
+[33m4d057ace[m[33m ([m[1;31morigin/master[m[33m)[m Restore README.md
+[33m8578dc88[m Add .gitignore file
+[33m618021cb[m Update .gitignore and remove previously tracked files
+[33md44c3ba8[m initial commit
+[33m662bc43a[m Update .gitignore and untrack .venv directory
+[33md7b0b0d5[m Create requirements.txt
+[33ma558ccff[m Create .gitignore
+[33ma31d63e9[m Initial commit
